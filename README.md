@@ -4,7 +4,7 @@
 <p align="left">I am Jaswanth, currently pursuing my 3rd year of B.Tech at Annamacharya Institute of Technology and Sciences, Rajampet, in the branch of CSE (AI). I have a keen interest in frontend development and love crafting interactive and user-friendly websites using technologies like HTML, CSS, and JavaScript. My goal is to create impactful and aesthetically pleasing digital experiences.</p>
 - 🌱 I’m currently learning *Java with DSA*
 
-- 📫 How to reach me **jaswanthmemories@gmail.com**
+- 📫 Reach me **jaswanthmemories@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
