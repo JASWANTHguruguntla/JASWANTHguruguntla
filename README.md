@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jaswanth G</h1>
-<h3 align="center">Aspiring AI Generalist | FullStack Developer </h3>
+<h3 align="center">Aspiring AI Generalist | FullStack Developer</h3>
 <p align="left">I am Jaswanth, currently pursuing my 3rd year of B.Tech at Annamacharya Institute of Technology and Sciences, Rajampet, in the branch of CSE (AI). I have a keen interest in frontend development and love crafting interactive and user-friendly websites using technologies like HTML, CSS, and JavaScript. My goal is to create impactful and aesthetically pleasing digital experiences.</p>
 
 - 📫 Reach me **jaswanthmemories@gmail.com**
