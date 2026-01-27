@@ -1,7 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Jaswanth G</h1>
 <h3 align="center">Aspiring AI Generalist | FullStack Developer</h3>
-<p align="left">I am Jaswanth, currently pursuing my final year of B.Tech at Annamacharya Institute of Technology and Sciences, Rajampet, in the branch of CSE (AI). I have a keen interest in frontend development and love crafting interactive and user-friendly websites using technologies like HTML, CSS, and JavaScript. My goal is to create impactful and aesthetically pleasing digital experiences.</p>
+<p align="left">👋 Hi, I'm Jaswanth Guruguntla, a final-year B.Tech student specializing in CSE (Artificial Intelligence) at Annamacharya Institute of Technology and Sciences, Rajampet.
+
+💻 I’m passionate about Frontend Development and love building interactive, responsive, and user-friendly web applications using HTML, CSS, and JavaScript. I enjoy transforming ideas into clean, functional, and visually appealing digital experiences.
+
+🧠 I’m also actively exploring AI-powered applications and full-stack development by working on real-world projects such as an AI-Powered Resume Builder, AI Wiki Quiz Generator, Jaswanth To-Do App, and a Student Management System (JavaFX + MySQL).
+
+🚀 My goal is to grow into a skilled full-stack developer who builds impactful products at the intersection of web development and AI.
+
+✨ Always curious. Always learning. Always building.</p>
 
 - 📫 Reach me **jaswanthmemories@gmail.com**
 
