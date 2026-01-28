@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jaswanth G</h1>
+<h1 align="center">Hi 👋, I'm Jaswanth Guruguntla</h1>
 <h3 align="center">Aspiring AI Generalist | FullStack Developer</h3>
 <p align="left">👋 Hi, I'm Jaswanth Guruguntla, a final-year B.Tech student specializing in CSE (Artificial Intelligence) at Annamacharya Institute of Technology and Sciences, Rajampet.
 
